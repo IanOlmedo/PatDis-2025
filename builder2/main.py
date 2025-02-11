@@ -1,4 +1,3 @@
-from auto import Auto
 from hacedor import AutoBuilder
 from director import Director
 
